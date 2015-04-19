@@ -1,0 +1,4 @@
+info.flatten.complete.text=Flattened %d blocks in chunk [%d, %d].
+
+command.flatbedrock.usage.text=Flatten bedrock at the top and bottom of the chunk containing the player.
+

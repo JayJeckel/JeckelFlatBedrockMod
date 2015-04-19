@@ -1,0 +1,25 @@
+{
+	"modListVersion": 2,
+	"modList":
+	[
+		{
+			"modid": "jeckelflatbedrockmod",
+			"name": "JeckelFlatBedrockMod",
+			"description": "JeckelFlatBedrockMod flattens bedrock layers when a chunk is generated, both at the bottom of the world and, in the case of nether like worlds, a bedrock layer at the top of the world will also be flattened. In addition, a command is provided to flatten bedrock layers in chunks that are already generated.",
+			"version": "${version}",
+			"mcversion": "${mcversion}",
+			"forgeversion": "${forgeversion}",
+			"url": "http://minecraft.jeckelland.site88.net/mods/${name}/",
+			"updateUrl": "",
+			"authorList": ["JayJeckel"],
+			"credits": "",
+			"logoFile": "banner.png",
+			"screenshots": [],
+			"parent": "",
+			"requiredMods": [ "Forge" ],
+			"dependencies": [],
+			"dependants": [],
+			"useDependencyInformation": true
+		}
+	]
+}
